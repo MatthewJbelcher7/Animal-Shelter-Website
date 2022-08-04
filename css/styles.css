@@ -1,6 +1,12 @@
 .AnimalColumn {
   width: 20%;
   text-align: center;
+  box-sizing: border-box;
+  border: solid gray;
+  border-width: 3px;
+  /* margin: 10px; */
+  background-color: cadetblue;
+  float: left;
 }
 
 .AnimalColumn img {
@@ -8,4 +14,13 @@
   width: 50%;
   height:auto;
   display: block;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
