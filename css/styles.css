@@ -16,6 +16,13 @@
   display: block;
 }
 
+.FancyLetter {
+  font-family: Edwardian Script;
+  font-size: 150%;
+  /* font-style: italic; */
+  font-weight: bolder;
+}
+
 h1 {
   text-align: center;
 }
